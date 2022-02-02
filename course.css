@@ -15,7 +15,6 @@ background-image: url('images/code_image');
   
   .img-text h2{
     font-size: 25px;
-  
     letter-spacing: 2px;
   }
     
@@ -25,7 +24,7 @@ background-image: url('images/code_image');
   
   .single-box{
     position: relative;
-    margin-bottom: 30px;
+    margin-bottom: 29px;
   }
   .img-area{
     position: absolute;
