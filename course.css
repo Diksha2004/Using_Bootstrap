@@ -26,6 +26,7 @@ background-image: url('images/code_image');
     position: relative;
     margin-bottom: 29px;
   }
+
   .img-area{
     position: absolute;
     width: 100px;
@@ -33,7 +34,7 @@ background-image: url('images/code_image');
     border: 6.5px solid #fff;
     overflow: hidden;
     top: 18px;
-    left: 125px;
+    left: 126px;
     border-radius: 40px;
   }
   
