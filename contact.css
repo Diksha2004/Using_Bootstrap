@@ -79,14 +79,12 @@ body{
   margin-left: 75px;
 }
 
-
 .contact .right-side .topic-text{
   font-size: 23px;
   font-weight: 600;
   color: #ffa500;
-  
-}
 
+}
 
 .contact .right-side .para{
     color: #ffa600;
@@ -97,6 +95,7 @@ body{
   width: 100%;
   margin: 12px 0px;
 }
+
 .right-side .input-box input,
 .right-side .input-box textarea{
   height: 100%;
@@ -146,6 +145,7 @@ body{
    width: 75%;
    margin-left: 55px;
 }
+
 }
 @media (max-width: 820px) {
   .test{
