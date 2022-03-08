@@ -173,7 +173,7 @@ background-image: url(images/computer.png);
   box-shadow:3px 2px 3px 2px #3d3b37d5, 0 0 10px #373737;
 }
 
-@media(max-width: 990px){
+ @media(max-width: 990px){
   .card{
     margin: 20px;
   }
