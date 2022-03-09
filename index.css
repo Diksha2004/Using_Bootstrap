@@ -175,10 +175,10 @@ background-image: url(images/computer.png);
 
  @media(max-width: 990px){
   .card{
-    margin: 20px;
+    margin:20px;
   }
   .solid-first{
-    display: none;
+    display:none;
   }
 } 
 
