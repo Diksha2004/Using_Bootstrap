@@ -37,8 +37,8 @@ body{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 15px;
-  position: relative;
+  /* margin-top: 15px;
+  position: relative; */
 }
 
 .contact .left-side::before{
