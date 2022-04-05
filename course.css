@@ -22,10 +22,10 @@ background-image: url('images/code_image');
     font-size: 15px;
   }
   
-  /* .single-box{
+  .single-box{
     position: relative;
     margin-bottom: 30px;
-  } */
+  }
 
   .img-area{
     position: absolute;
