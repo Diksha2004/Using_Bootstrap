@@ -349,7 +349,7 @@ span.test2 {
 }
 
 .btn {
-  animation: wiggle 2s linear infinite;
+  animation: wiggle 3s linear infinite;
 }
 
 /* Keyframes */
