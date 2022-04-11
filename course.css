@@ -11,6 +11,8 @@ background-image: url('images/code_image');
     background: #1a2e5af6;
     color: white;
     border-radius: 15px;
+
+    font: 1em sans-serif;
   }
   
   .img-text h2{
