@@ -40,8 +40,10 @@ body{
   margin-top: 15px;
   position: relative;
 
-  /* font-size: larger;
-  font: optional; */
+  font-size: larger;
+  font: optional;
+  user-select: none;
+  
 }
 
 .contact .left-side::before{
