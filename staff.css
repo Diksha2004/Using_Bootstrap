@@ -8,6 +8,7 @@
 
   transition: all 3.ms;
   justify-self: start;
+  scroll-snap-align: left;
 }
 
 
