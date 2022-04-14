@@ -13,6 +13,7 @@ background-image: url('images/code_image');
     border-radius: 15px;
 
     font: 1em sans-serif;
+    font-weight: 100;
   }
   
   .img-text h2{
