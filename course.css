@@ -4,14 +4,13 @@ background-image: url('images/code_image');
 }
 .img-text{
     width:100%;
-    height:320px;
+    height:300px;
     display:block;
     text-align: center;
     padding:41% 7%;
     background: #1a2e5af6;
     color: white;
     border-radius: 15px;
-
   }
   
   .img-text h2{
@@ -20,22 +19,22 @@ background-image: url('images/code_image');
   }
     
   .img-text p{
-    font-size: 15px;
+    font-size: 14px;
   }
   
   .single-box{
     position: relative;
-    margin-bottom: 30px;
+    margin-bottom: 29px;
   }
 
   .img-area{
     position: absolute;
     width: 100px;
     height: 100px;
-    border: 6.5px solid #fff;
+    
     overflow: hidden;
     top: 18px;
     left: 126px;
-    border-radius: 30px;
+ 
   }
   
