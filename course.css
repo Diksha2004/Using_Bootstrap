@@ -12,8 +12,6 @@ background-image: url('images/code_image');
     color: white;
     border-radius: 15px;
 
-    font: 1em sans-serif;
-    font-weight: 100;
   }
   
   .img-text h2{
@@ -38,6 +36,6 @@ background-image: url('images/code_image');
     overflow: hidden;
     top: 18px;
     left: 126px;
-    border-radius: 40px;
+    border-radius: 30px;
   }
   
