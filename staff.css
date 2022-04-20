@@ -10,6 +10,7 @@
   justify-self: start;
   scroll-snap-align: left;
   user-select: contain;
+  padding: 100px;
 }
 
 
