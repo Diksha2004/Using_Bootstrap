@@ -24,7 +24,7 @@ body{
     gap:9px;
     position:relative;
     overflow: hidden;
-    margin-top: 50px;
+    margin-top: 10px;
    
 }
 /* .container .content{
@@ -110,3 +110,8 @@ body{
     }
     
 
+.img-reknot{
+  max-height: 200px;
+  max-width: 300px;
+  margin-top: 50px;
+}
