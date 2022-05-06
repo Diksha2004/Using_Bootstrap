@@ -182,3 +182,19 @@ background-image: url(images/computer.png);
     margin: 20px;
   }
 } 
+
+div.solid-first {
+  border-style: solid;
+  padding: 50px 50px 50px 50px;
+  border-color: #14213d;
+  border-radius: 9px;
+  margin-bottom: 100px;
+}
+
+.img-logo{
+  max-height: 200px;
+  max-width: 200px;
+  padding-left: 30px;
+  padding-right: 30px; 
+  margin-bottom: 50px;
+}
