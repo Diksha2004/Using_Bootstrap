@@ -39,7 +39,6 @@ body{
   justify-content: center;
   margin-top: 15px;
   position: relative;
-
 }
 
 .contact .left-side::before{
@@ -84,7 +83,6 @@ body{
   font-size: 23px;
   font-weight: 600;
   color: #ffa500;
-
 }
 
 .contact .right-side .para{
