@@ -280,7 +280,7 @@ span.test1 {
 }
 
 .card{
-  box-shadow: 0 15px 15px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 15px 15px 0 rgba(0,0,0,0.3);
   transition: 0.3s;
 }
 
@@ -297,7 +297,6 @@ span.test1 {
   background: #14213d;
   color: white;
   border-radius: 15px;
-
 }
 
 .img-text h2{
