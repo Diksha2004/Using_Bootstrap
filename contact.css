@@ -9,10 +9,8 @@
 body{
   min-height: 100vh;
   width: 100%;
-  background: #afafb6;
+  background: #e5e5e5;
   
-  align-items: center;
-  justify-content: center;
 }
 .test{
   width: 85%;
