@@ -13,51 +13,107 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-</head>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
 <body>
 
 
     
 <section>
-    <div class="row" style="margin-left:55px;margin-top:80px; margin-bottom:100px;">
-      <div style="text-align:center;color:#14213d;">
-        <div style="text-align:center;color:#14213d;">
-          <h3 style="font-size: 35px;margin-bottom: 35px;"> Staff</h3></div>
-        <p style="margin-left:40px; margin-right:40px;">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+
+  <section class="text-gray-600 body-font">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="flex flex-col text-center w-full mb-20">
+        <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Our Team</h1>
+        <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Magnam Dolores Commodi Suscipit. Necessitatibus Eius Consequatur Ex Aliquid Fuga Eum Quidem. Sit Sint Consectetur Velit. Quisquam Quos Quisquam Cupiditate. Et Nemo Qui Impedit Suscipit Alias Ea. Quia Fugiat Sit In Iste Officiis Commodi Quidem Hic Quas.</p>
       </div>
-      <div class="col">
-        <div class="card" id="staff" style="width:370px;">
-          <img class="card-img-top" src="images/customer" alt="Card image" style="width:90%">
-          <div class="card-body" style="margin-top: 120px;">
-            <h4 class="card-title">Harry potter</h4>
-            <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
-            <a href="#" class="btn ">See Profile</a>
+      <div class="flex flex-wrap -m-2">
+        <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/80x80">
+            <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium">Holden Caulfield</h2>
+              <p class="text-gray-500">UI Designer</p>
+            </div>
           </div>
         </div>
-      </div>
-  
-      <div class="col">
-        <div class="card" id="staff" style="width:370px">
-          <img class="card-img-top" src="images/customer" alt="Card image" style="width:90%">
-          <div class="card-body" style="margin-top: 120px;">
-            <h4 class="card-title">Ron Weasly</h4>
-            <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
-            <a href="#" class="btn ">See Profile</a>
+        <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/84x84">
+            <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium">Henry Letham</h2>
+              <p class="text-gray-500">CTO</p>
+            </div>
           </div>
         </div>
-      </div>
-  
-      <div class="col">
-        <div class="card" id="staff" style="width:370px">
-          <img class="card-img-top" src="images/customer" alt="Card image" style="width:90%;">
-          <div class="card-body" style="margin-top: 120px;">
-            <h4 class="card-title">Hermine Granger</h4>
-            <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
-            <a href="#" class="btn">See Profile</a>
+        <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/88x88">
+            <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium">Oskar Blinde</h2>
+              <p class="text-gray-500">Founder</p>
+            </div>
+          </div>
+        </div>
+        <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/90x90">
+            <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium">John Doe</h2>
+              <p class="text-gray-500">DevOps</p>
+            </div>
+          </div>
+        </div>
+        <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/94x94">
+            <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium">Martin Eden</h2>
+              <p class="text-gray-500">Software Engineer</p>
+            </div>
+          </div>
+        </div>
+        <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/98x98">
+            <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium">Boris Kitua</h2>
+              <p class="text-gray-500">UX Researcher</p>
+            </div>
+          </div>
+        </div>
+        <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/100x90">
+            <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium">Atticus Finch</h2>
+              <p class="text-gray-500">QA Engineer</p>
+            </div>
+          </div>
+        </div>
+        <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/104x94">
+            <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium">Alper Kamu</h2>
+              <p class="text-gray-500">System</p>
+            </div>
+          </div>
+        </div>
+        <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+            <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/108x98">
+            <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium">Rodrigo Monchi</h2>
+              <p class="text-gray-500">Product Manager</p>
+            </div>
           </div>
         </div>
       </div>
     </div>
+  </section>
+
   </section>
 
 
