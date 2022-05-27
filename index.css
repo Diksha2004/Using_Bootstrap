@@ -241,7 +241,7 @@ background-image: url(images/computer.png);
   margin-left: 130px;
   margin-right: 0px;
   display: flex;
-  
+  padding: 200px;
 }
 
 span.test1 {
@@ -262,9 +262,7 @@ span.test1 {
 
 #testcard{
  margin-left: 200px;
- /* margin-right:100px; */
- padding-top: 50px;
- padding-right: 60px;
+ 
 }
 
 .cardbtn{
