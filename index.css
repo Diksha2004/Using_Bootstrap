@@ -79,18 +79,18 @@ body{
     position:relative;
     overflow:hidden;
     max-width:920px;
-    max-height: 900px;
+    max-height: 800px;
     margin-left:400px;
     margin-bottom: 100px;
   }
   
-  .img-move-2 {
+  /* .img-move-2 {
    
     max-width:350px;
     max-height: 900px;
     margin-left:800px;
     margin-bottom: 100px;
-  }
+  } */
   
 
   @media (min-width:769px) {
