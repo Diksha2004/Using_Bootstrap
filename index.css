@@ -235,8 +235,9 @@ background-image: url(images/computer.png);
 
 @media(max-width: 990px){
   #testcard{
-    display: none;
+   display: none;
   }
+
 }
 
 #part_1{
