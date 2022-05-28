@@ -227,6 +227,18 @@ background-image: url(images/computer.png);
   }
 } 
 
+@media(max-width: 990px){
+  #service{
+    display: none;
+  }
+} 
+
+@media(max-width: 990px){
+  #testcard{
+    display: none;
+  }
+}
+
 #part_1{
   margin-top: 20px;
   margin-bottom: 70px;
