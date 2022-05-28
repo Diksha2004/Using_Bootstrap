@@ -135,6 +135,7 @@ body{
   .test{
     margin: 40px 0;
     height: 100%;
+    margin-left: 26px;
   }
   .test .contact{
     flex-direction: column-reverse;
