@@ -133,7 +133,7 @@ body{
 }
 @media (max-width: 820px) {
   .test{
-    margin: 40px 0;
+    margin: 40px 2px;
     height: 100%;
     margin-left: 26px;
   }
