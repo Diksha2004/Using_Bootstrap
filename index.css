@@ -270,9 +270,9 @@ span.test1 {
   writing-mode: vertical-rl; 
 }
 
-/* span.test2 {
+span.test2 {
   writing-mode: vertical-rl; 
-} */
+}
 
 #solid-second {
   border-style: solid;
@@ -293,7 +293,7 @@ span.test1 {
   background: #14213d;
   color: rgb(255, 255, 255);
   cursor: pointer;
-  font-size: larger;
+  font-size: x-large;
   border-radius: 4px;
   padding: 7px;
 }
