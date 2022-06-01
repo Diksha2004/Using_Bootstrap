@@ -38,7 +38,7 @@ body{
   position: relative;
 }
 .contact .left-side::before{
-  content: '';
+
   position: absolute;
   height: 70%;
   width: 2px;
