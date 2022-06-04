@@ -279,7 +279,7 @@ span.test2 {
 
 .card{
   box-shadow: 0 15px 15px 0 rgba(0,0,0,0.3);
-  transition: 0.3s;
+  transition: 0.4s;
 }
 
 .img-text{
@@ -321,26 +321,6 @@ span.test2 {
 .img-area img{
   width: 100%;
 }
-
-/* .range p{
- 
-    animation-duration:3;
-    animation-name:slidein;
-    animation-iteration-count:infinite;
- 
-}
-
-@keyframes slidein {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-
-  to {
-    margin-left: 0%;
-    width: 100%;
-  }
-} */
 
 .btn {
   animation: wiggle 2s linear infinite;
