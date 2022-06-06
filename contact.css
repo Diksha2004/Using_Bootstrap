@@ -10,8 +10,8 @@ body{
   min-height: 100vh;
   width: 100%;
   background-color: #e5e5e5;
-  
 }
+
 .test{
   width: 80%;
   background: #14213d;
@@ -23,11 +23,13 @@ body{
   padding: 20px 60px 30px 40px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
+
 .test .contact{
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
+
 .test .contact .left-side{
   width: 25%;
   height: 100%;
@@ -38,8 +40,8 @@ body{
   margin-top: 15px;
   position: relative;
 }
-.contact .left-side::before{
 
+.contact .left-side::before{
   position: absolute;
   height: 70%;
   width: 2px;
@@ -48,38 +50,45 @@ body{
   transform: translateY(-50%);
   background: #afafb6;
 }
+
 .contact .left-side .details{
   margin: 14px;
   text-align: center;
 }
+
 .contact .left-side .details i{
   font-size: 30px;
   color:#14213d;
   margin-bottom: 10px;
 }
+
 .contact .left-side .details .topic{
   font-size: 18px;
   font-weight: 500;
   color: #ffa500;
 }
+
 .contact .left-side .details .text-one,
 .contact .left-side .details .text-two{
   font-size: 14px;
   color: #afafb6;
 }
+
 .test .contact .right-side{
   width: 75%;
   margin-left: 75px;
 }
+
 .contact .right-side .topic-text{
   font-size: 23px;
   font-weight: 600;
   color: #ffa500;
 }
+
 .contact .right-side .para{
-  
     color: #ffa500;
   }
+
 .right-side .input-box{
   height: 50px;
   width: 100%;
