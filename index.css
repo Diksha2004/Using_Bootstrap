@@ -225,6 +225,8 @@ background-image: url(images/computer.png);
   }
 }
 
+
+/* Id use With "#"  */
 #part_1{
   margin-top: 20px;
   margin-bottom: 70px;
@@ -232,7 +234,6 @@ background-image: url(images/computer.png);
   margin-right: 30px;
   display: flex;
   border-radius: 4px;
- 
 }
 
 #part_2{
@@ -240,8 +241,7 @@ background-image: url(images/computer.png);
   margin-bottom: 70px;
   margin-left: 130px;
   margin-right: 0px;
-  display: flex;
-  
+  display: flex;  
 }
 
 span.test1 {
