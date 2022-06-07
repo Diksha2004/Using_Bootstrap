@@ -12,11 +12,6 @@ body{
     background-color: #e5e5e5;
 }
 
-/* html {
-
-  overflow-x: hidden;
-} */
-
 .container{
     min-height: 0vh;
     display: flex;
@@ -38,6 +33,7 @@ body{
     color: rgb(255, 255, 255);
     cursor: pointer;
     font-size: larger;
+    opacity: 0.1px;
   }
 
   .topbtn {
