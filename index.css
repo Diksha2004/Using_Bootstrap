@@ -261,6 +261,18 @@ span.test2 {
  
 }
 
+#rangepole{
+  background: #e5e5e5;
+}
+
+#video{
+  background: #e5e5e5;
+  padding-bottom: 60px;
+}
+
+#course{
+  background: #e5e5e5;
+}
 .cardbtn{
   display: inline-block;
   padding-left:2px;
