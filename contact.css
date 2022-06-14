@@ -6,6 +6,7 @@
   box-sizing: border-box;
   font-family: "Poppins" , sans-serif;
 }
+
 body{
   min-height: 100vh;
   width: 100%;
@@ -18,7 +19,7 @@ body{
   margin-left: 140px;
   margin-top: 50px;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  margin-bottom: 100px;
+  margin-bottom: 90px;
   padding: 20px 60px 30px 40px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
