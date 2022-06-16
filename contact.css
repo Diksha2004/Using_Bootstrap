@@ -92,7 +92,7 @@ body{
 .right-side .input-box{
   height: 50px;
   width: 100%;
-  margin: 12px 0;
+  margin: 12px 0px;
 }
 .right-side .input-box input,
 .right-side .input-box textarea{
