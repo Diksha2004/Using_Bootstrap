@@ -152,9 +152,11 @@ body{
     height: 100%;
     margin-left: 26px;
   }
+
   .test .contact{
     flex-direction: column-reverse;
   }
+
  .test .contact .left-side{
    width: 100%;
    flex-direction: row;
@@ -162,9 +164,11 @@ body{
    justify-content: center;
    flex-wrap: wrap;
  }
+
  .tets .contact .left-side::before{
    display: none;
  }
+ 
  .test .contact .right-side{
    width: 100%;
    margin-left: 0;
