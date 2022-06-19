@@ -32,7 +32,7 @@ background-image: url('images/code_image');
     width: 100px;
     height: 100px;
     overflow: hidden;
-    /* top: 18px;
-    left: 126px; */
+    top: 18px;
+    left: 126px;
   }
   
